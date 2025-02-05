@@ -1,0 +1,3 @@
+# config-file = default.config
+config-file = astrolight.config
+config-file = user.config
